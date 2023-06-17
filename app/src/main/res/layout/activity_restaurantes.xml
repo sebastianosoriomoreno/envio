@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/resta"
     tools:context=".Restaurantes">
 
     <TextView
@@ -12,8 +13,12 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_width="match_parent"
-        android:text="ZONA DE RESTAURANTES"
+        android:text="Excelente zona de restaurante para que disfrute de tus delicias"
         android:textAlignment="center"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+
         android:layout_height="wrap_content"/>
 
 </android.support.constraint.ConstraintLayout>
