@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opcion1"
+        android:title="Español"/>
+
+    <item
+        android:id="@+id/opcion2"
+        android:title="Ingles"/>
+
+    <item
+        android:id="@+id/opcion3"
+        android:title="Italiano"/>
+
+    <item
+        android:id="@+id/opcion4"
+        android:title="Acerca de"/>
+
+</menu>
